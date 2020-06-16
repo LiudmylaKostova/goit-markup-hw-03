@@ -283,10 +283,12 @@ body {
 .social-links {
   list-style: none;
   text-decoration: none;
+  display: inline-block;
 }
 .social-links:hover,
 .social-links:focus {
   color: var(--accent-color);
+  background-color: blue;
   list-style: none;
   text-decoration: none;
 }
