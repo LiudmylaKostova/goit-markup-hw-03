@@ -244,7 +244,7 @@ body {
 .our-team-flex-li {
   width: calc((100% - 3 * 30px) / 4);
   margin-right: 30px;
-  /* width: 270px; */
+  width: 270px;
 }
 .our-team-flex-li:last-child {
   margin-right: 0;
